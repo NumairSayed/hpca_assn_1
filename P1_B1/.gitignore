@@ -1,0 +1,7 @@
+*.txt
+!requirements.txt
+*.out
+*.dat
+*.log
+__pycache__/
+

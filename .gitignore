@@ -1,0 +1,16 @@
+__pycache__/                  
+euler3d_cpu_double_perf.txt
+*.png
+euler3d_cpu_perf.txt         
+needle_perf.txt           
+pre_euler3d_cpu_double_perf.txt          
+backprop_perf.txt  
+hotspot_perf.txt             
+particle_filter_perf.txt  
+pre_euler3d_cpu_perf.txt                 
+*.csv
+bfs_perf.txt       
+lavaMD_perf.txt              
+pathfinder_perf.txt       
+*.json  
+rodinia_combined_perf.csv

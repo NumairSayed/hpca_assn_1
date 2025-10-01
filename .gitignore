@@ -15,3 +15,4 @@ pathfinder_perf.txt
 *.json  
 rodinia_combined_perf.csv
 *result.txt
+P2_B1_and_B2/gpu-rodinia/openmp/bfs/result.txt

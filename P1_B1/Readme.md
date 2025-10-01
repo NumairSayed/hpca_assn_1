@@ -17,3 +17,4 @@ cd vizualization_scripts
 pip install -r requirements.txt
 python viz.py
 ```
+
